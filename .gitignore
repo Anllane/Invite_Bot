@@ -1,0 +1,26 @@
+# Виртуальные окружения
+venv/
+.venv/
+
+# Файлы с секретами
+.env
+
+# Кэш и временные файлы
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Логи
+*.log
+
+# Jupyter Notebook чекпоинты
+.ipynb_checkpoints/
+
+# IDE / редакторы
+.vscode/
+.idea/
+*.iml
+
+# Тестовые/отладочные артефакты
+.coverage
+.pytest_cache/
