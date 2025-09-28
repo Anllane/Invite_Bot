@@ -24,3 +24,5 @@ __pycache__/
 # Тестовые/отладочные артефакты
 .coverage
 .pytest_cache/
+
+*.sqlite
